@@ -57,7 +57,6 @@
     <Compile Include="GalleryList.Designer.cs">
       <DependentUpon>GalleryList.cs</DependentUpon>
     </Compile>
-    <Compile Include="listviewItemNew.cs" />
     <Compile Include="Main.cs">
       <SubType>Form</SubType>
     </Compile>
