@@ -25,9 +25,11 @@ namespace GalleryShow
 
         private void SignInBtn_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            GalleryList gl = new GalleryShow.GalleryList();
-            gl.Show();
+
+                this.Hide();
+                GalleryList gl = new GalleryShow.GalleryList();
+                gl.Show();
+                
         }
     }
 }
