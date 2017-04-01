@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace GalleryShow
 {
-    public partial class Form1 : Form
+    public partial class PopImg : Form
     {
-        public Form1()
+        public PopImg()
         {
             InitializeComponent();
         }
